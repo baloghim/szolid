@@ -15,7 +15,17 @@ namespace ConsoleApp1
 
             // 1. Isti: 20 véletlenszám 1 és 100 között
 
-
+ 		Random rnd = new Random();
+            for (int i = 0; i < 20; i++)
+			{
+                int num = rnd.Next(101);
+                szamok.Add(num);
+			}
+            
+            foreach (var item in szamok)
+	{
+                Console.WriteLine(item);
+	}
 
 
 
