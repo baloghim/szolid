@@ -51,6 +51,14 @@ namespace ConsoleApp1
 
             //4. Ádámka: A számok átlaga
 
+		double Atlag =0;
+		
+		for (int i =0; i < szamok.Count; i++)
+		{
+			Atlag += szamok[i]
+		}	
+		double atlag = Atlag / (double)szamok.Count;
+		Console.WriteLine("Átlag: {0}", Atlag);
 
             //5. E. M. : Számok darabszáma
 
