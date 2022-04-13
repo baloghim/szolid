@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {   
             Console.WriteLine("PetrovicsIstvan A Gigantikus");
             Console.WriteLine("Egervári Martin A FeketeEmber");
+            
+            Console.WriteLine("Jonai Adam")
             Console.ReadKey();
 
         }
