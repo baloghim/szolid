@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {   
             Console.WriteLine("PetrovicsIstvan A Gigantikus");
-            Console.WriteLine("Egervári Martin");
+            Console.WriteLine("Egervári Martin A FeketeEmber");
             Console.ReadKey();
 
         }
