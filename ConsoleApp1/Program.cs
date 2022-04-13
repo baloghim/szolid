@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {   
-            Console.WriteLine("PetrovicsIstvan A Gigantikus");
+            Console.WriteLine("PetrovicsIstvan A Gigantikusan kicsi a pömpölője");
             Console.WriteLine("Egervári Martin A FeketeEmber");
             
             Console.WriteLine("Jonai Adam A Repper")
