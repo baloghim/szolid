@@ -10,10 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-         
-
-
-
+            Console.WriteLine("Istinek nem valami nagy a fasza");
             Console.ReadKey();
 
         }
