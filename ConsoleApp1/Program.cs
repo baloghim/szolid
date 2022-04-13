@@ -14,7 +14,7 @@ namespace ConsoleApp1
         {   
             Console.WriteLine("PetrovicsIstvan A Gigantikusan kicsi a pömpölője");
             Console.WriteLine("Egervári Martin A FeketeEmber");
-            
+             Console.WriteLine("Kedves aranyos kisfaszu Jonai Adam");
             Console.WriteLine("Jonai Adam A Repper")
             Console.ReadKey();
 
