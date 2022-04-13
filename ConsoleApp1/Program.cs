@@ -54,7 +54,13 @@ namespace ConsoleApp1
 
             //5. E. M. : Számok darabszáma
 
+            int mennyi = 0;
 
+            for (int i = 0; i < szamok.Count(); i++)
+            {
+                mennyi = mennyi + szamok[i];
+            }
+            Console.WriteLine("A számok mennyisége: {0}",mennyi);
 
             //6. páros v páratlan számból van több?
 
