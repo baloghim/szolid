@@ -26,6 +26,17 @@ namespace ConsoleApp1
 
             // 3. Sz. M. Kiírja a legkisebb számot
 
+            int min = 0;
+
+            for (int i = 0; i < Lista; i++)
+			{
+                if (Lista[i] < Lista[min])
+                {
+                    min = i;
+	            }
+			}
+
+            Console.WriteLine(Lista[min]);
 
 
             //4. Ádámka: A számok átlaga
