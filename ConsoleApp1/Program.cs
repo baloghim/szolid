@@ -28,9 +28,9 @@ namespace ConsoleApp1
 
             int min = 0;
 
-            for (int i = 0; i < Lista; i++)
+            for (int i = 0; i < szamok.Count; i++)
 			{
-                if (Lista[i] < Lista[min])
+                if (szamok[i] < szamok[min])
                 {
                     min = i;
 	            }
