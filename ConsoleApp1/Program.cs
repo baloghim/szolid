@@ -9,9 +9,16 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
+<<<<<<< HEAD
+        {
+            Console.WriteLine("Istinek nem valami nagy a fasza");
+=======
         {   
-            Console.WriteLine("PetrovicsIstvan A Gigantikus");
-            Console.WriteLine("Egervári Martin");
+            Console.WriteLine("PetrovicsIstvan A Gigantikusan kicsi a pömpölője");
+            Console.WriteLine("Egervári Martin A FeketeEmber");
+            
+            Console.WriteLine("Jonai Adam A Repper");
+>>>>>>> 659ddac4444f44a3a44a3bb5106369d6b73d4079
             Console.ReadKey();
 
         }
