@@ -9,8 +9,8 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Istinek gigantikus nagy a fasza");
+        {   
+            Console.WriteLine("PetrovicsIstvan A Gigantikus");
             Console.ReadKey();
 
         }
