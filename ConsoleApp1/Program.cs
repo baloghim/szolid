@@ -9,10 +9,6 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-<<<<<<< HEAD
-        {
-            Console.WriteLine("Istinek nem valami nagy a fasza");
-=======
         {   
             Console.WriteLine("PetrovicsIstvan A Gigantikusan kicsi a pömpölője");
             Console.WriteLine("Egervári Martin A FeketeEmber");
