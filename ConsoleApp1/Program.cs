@@ -49,6 +49,9 @@ namespace ConsoleApp1
             //6. páros v páratlan számból van több?
 
 
+            if(szamok.Where(x => x%2 == 0 ).Count() > szamok.Where(x => x%2 != 0 ).Count())
+                Console.WriteLine("Páros számból van több");
+            else Console.WriteLine("Páratlan számból van több");
 
 
 
